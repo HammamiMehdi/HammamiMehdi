@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/hammami-mehdi/](https://www.linkedin.com/in/hammami-mehdi/)
 
-- 💬 Ask me about **React, Node and Microsoft Power Plateform**
+- 💬 Ask me about **React, Angular, Spring Boot, Node and Microsoft Power Plateform**
 
 - 📫 How to reach me **mehdihmmi77@gmail.com**
 -----------------------------------------------------------------<img align="center" src="https://media.licdn.com/dms/image/C4E03AQH-cgKooy6GGA/profile-displayphoto-shrink_800_800/0/1645436638252?e=1691625600&v=beta&t=lavl4qg1f49WXFJu1FUHLVI_pl6nf7NI_qFXzAdTjdg" height="200" width="200"/>
